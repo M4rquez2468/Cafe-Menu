@@ -1,27 +1,38 @@
-#include <iostream>
-using namespace std;
-
-//add class definitions below this line
-class Fruit {
+class Brunch {
   private:
-  string name;
-  string color;
+  string openTime;
+  string closeTime;
+  string <vector> availableItems;
+  public:
+  Brunch (string o, string c, vector <string> a) {
+    openTime = o;
+    closeTime = c;
+    availableItems = a;
+  }
+};
 
-public:
-  Fruit(string n, string c) {
-      name = n;
-      color = c;
-    }
-  string GetColor() {
-    return color;
+class Lucnh {
+  private:
+  string openTime;
+  string closeTime;
+  string <vector> availableItems;
+  public:
+  Lunch (string o, string c, vector <string> a) {
+    openTime = o;
+    closeTime = c;
+    availableItems = a;
   }
-  string GetName() {
-    return name;
-  }
-  void SetColor(string c) {
-    color = c;
-  }
-  void SetName(string n) {
-    name = n;
+};
+
+class Dinner {
+  private:
+  string openTime;
+  string closeTime;
+  string <vector> availableItems;
+  public:
+  Dinner (string o, string c, vector <string> a) {
+    openTime = o;
+    closeTime = c;
+    availableItems = a;
   }
 };
