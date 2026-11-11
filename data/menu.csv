@@ -1,0 +1,42 @@
+id,name,station,classification,ingredients,special,special_day,calories_min,calories_max,png
+alfredopasta,Alfredo pasta,casaitaliana,entree,fettuccine;cream;butter;parmesan;garlic,n,,600,900,alfredopasta.png
+spaghetti,Spaghetti,casaitaliana,entree,spaghetti noodles;tomato sauce;garlic;onion;parmesan,n,,450,650,spaghetti.png
+nycitalianpizza,NYC Italian pizza,casaitaliana,entree,pizza dough;tomato sauce;mozzarella,n,,280,400,nycitalianpizza.png
+risolli,Risolli,casaitaliana,entree,rice;parmesan;butter;onion;broth,n,,400,550,risolli.png
+assassinsspaghetti,Assassin's Spaghetti,casaitaliana,entree,spaghetti;tomato paste;chili flakes;garlic;olive oil,n,,500,700,assassinsspaghetti.png
+mozzarellaspecial,Mozzarella special,casaitaliana,entree,mozzarella;breadcrumbs;egg;marinara sauce,y,monday,400,600,mozzarellaspecial.png
+assortedmuffins,Assorted muffins,bcoven,bakery,flour;sugar;eggs;butter;milk,n,,350,480,assortedmuffins.png
+bagels,Bagels,bcoven,bakery,flour;yeast;water;salt;sugar,n,,250,320,bagels.png
+breakfastbreads,Breakfast breads,bcoven,bakery,flour;sugar;butter;eggs;cinnamon,n,,200,350,breakfastbreads.png
+cerealandmilk,Cereal and milk,bcoven,breakfast,cereal;milk,n,,180,280,cerealandmilk.png
+buildyourownwafflebar,Build-your-own waffle bar,bcoven,breakfast,waffle batter;syrup;whipped cream;fruit;butter,n,,350,600,buildyourownwafflebar.png
+spreadsandcondiments,Spreads and condiments,bcoven,condiment,butter;jelly;cream cheese;peanut butter;syrup,n,,50,200,spreadsandcondiments.png
+cake,Cake,bcoven,dessert,flour;sugar;eggs;butter;vanilla,n,,300,450,cake.png
+tiramisu,Tiramisu,bcoven,dessert,ladyfingers;mascarpone;espresso;eggs;cocoa,y,tuesday,400,500,tiramisu.png
+omelets,Omelets,southernhospitality,breakfast,eggs;cheese;ham;peppers;onion,n,,250,450,omelets.png
+texastoast,Texas toast,southernhospitality,side,bread;butter;garlic,n,,150,220,texastoast.png
+jamabalaya,Jamabalaya,southernhospitality,entree,rice;sausage;chicken;peppers;onion,n,,450,650,jamabalaya.png
+gizzards,Gizzards,southernhospitality,entree,chicken gizzards;flour;seasoning;oil,n,,300,450,gizzards.png
+waffles,Waffles,southernhospitality,breakfast,flour;eggs;milk;butter;sugar,y,wednesday,350,550,waffles.png
+calamarirings,Calamari rings,bikinibottomtavern,entree,squid;flour;egg;breadcrumbs;oil,n,,350,500,calamarirings.png
+fishandchips,Fish and chips,bikinibottomtavern,entree,fish;batter;potatoes;oil,n,,750,1000,fishandchips.png
+salmonandfriedrice,Salmon and fried rice,bikinibottomtavern,entree,salmon;rice;egg;soy sauce;peas,n,,600,800,salmonandfriedrice.png
+codfishsoup,Cod fish soup,bikinibottomtavern,soup,cod;broth;potatoes;onion;celery,n,,200,300,codfishsoup.png
+daveysjonesspecial,Davey's Jones special,bikinibottomtavern,entree,seafood;butter;garlic,y,thursday,500,750,daveysjonesspecial.png
+lomein,Lo mein,internationalcuisine,entree,noodles;soy sauce;cabbage;carrots;onion,n,,450,650,lomein.png
+padthai,Pad thai,internationalcuisine,entree,rice noodles;egg;peanuts;tamarind;bean sprouts,n,,550,750,padthai.png
+hibachichickenandrice,Hibachi chicken and rice,internationalcuisine,entree,chicken;rice;soy sauce;butter;onion,n,,600,800,hibachichickenandrice.png
+shawarma,Shawarma,internationalcuisine,entree,chicken;pita;garlic sauce;tomato;pickles,n,,500,700,shawarma.png
+goatbriyanai,Goat briyanai,internationalcuisine,entree,goat meat;basmati rice;yogurt;onion;spices,n,,650,850,goatbriyanai.png
+fajitas,Fajitas,internationalcuisine,entree,chicken;bell peppers;onion;tortillas;fajita seasoning,y,friday,500,750,fajitas.png
+apple,Apple,edendiet,fruit,apple,n,,80,110,apple.png
+grapes,Grapes,edendiet,fruit,grapes,n,,60,100,grapes.png
+cantaloupe,Cantaloupe,edendiet,fruit,cantaloupe,n,,50,70,cantaloupe.png
+oranges,Oranges,edendiet,fruit,oranges,n,,60,85,oranges.png
+lettuce,Lettuce,edendiet,vegetable,lettuce,n,,5,15,lettuce.png
+ham,Ham,edendiet,deli,ham,n,,100,150,ham.png
+turkey,Turkey,edendiet,deli,turkey,n,,80,120,turkey.png
+bread,Bread,edendiet,deli,wheat flour;water;yeast,n,,70,140,bread.png
+olives,Olives,edendiet,topping,olives,n,,25,50,olives.png
+pickles,Pickles,edendiet,topping,cucumbers;vinegar;salt;dill,n,,5,15,pickles.png
+jalapeno,Jalapeño,edendiet,topping,jalapeño peppers,n,,3,10,jalapeno.png
